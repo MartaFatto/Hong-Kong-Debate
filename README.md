@@ -3,14 +3,14 @@
 
 ## Overview
 
-Basic Twitter Data Analysis: Text Mining, Topic Modelling and Sentiment Analysis
+<div align="justify">Basic Twitter Data Analysis: Text Mining, Topic Modelling and Sentiment Analysis
 
 This work tries to answer the following research questions by appling simple techniques of Text Mining, Topic Modelling and Sentiment Analysis on data retrieved through Twitter Web API (data extracted in July 2020, few days after the approval of the new National Security Law in Hong Kong).
 
 1- Concerning Hong Kong, what are people discussing? Are they talking about the new National Security Law and its social, political and economic aspects?
 
 2- Do people have polarized opinions about the topics?
-
+</div>
 
 ## Required libraries
 
